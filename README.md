@@ -4,13 +4,11 @@ Welcome to my **Lux Tech Bootcamp** repository! This is where I will be posting 
 
 ## Introduction
 
-This repository is dedicated to the tasks and projects from the **Lux Tech Data Analytics Bootcamp**. The code and projects presented here are not limited to what is being taught during the bootcamp. For each lesson and task assigned, I aim to go above and beyond, exploring more intricate concepts and functionalities within the tools and technologies covered.
-
-While the bootcamp provides a solid foundation, I leverage my existing knowledge and experience to dive deeper into the topics, often extending my work beyond the course requirements. This includes exploring advanced SQL queries, additional data manipulation techniques, and more advanced analytical methods, ensuring that I gain a comprehensive understanding of the tools at hand.
+This repository is dedicated to the tasks and projects from the **Lux Tech Data Analytics Bootcamp**. The code and projects presented here are not limited to what is being taught during the bootcamp. For each lesson and task assigned, I aim to go above and beyond. I explore more advanced concepts and functionalities within the tools and technologies covered. While the bootcamp provides a solid foundation,my objective is to dive deeper into the topics and extend my work beyond the course requirements.
 
 ## Technologies
 
-Throughout this bootcamp, I will be working with a range of data analytics tools and technologies. Below is a list of the core software being used, along with additional tools that I am exploring independently:
+Below is a list of the core software being used, along with additional tools that I am exploring independently:
 
 - **SQL**: For querying, manipulating, and analyzing data in relational databases.
 - **Python**: For data analysis, machine learning, and automation.
