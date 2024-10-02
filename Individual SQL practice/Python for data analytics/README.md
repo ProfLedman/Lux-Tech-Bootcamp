@@ -37,8 +37,8 @@ The session on **Introduction to Python for Data Analysis** during my data scien
 - **Operators and functions** enhance computational efficiency and code reusability.
 - **Lists and tuples** are fundamental for data collection, with lists being mutable and tuples immutable.
 
-## Areas to include later
-numPy
-pandas
-dictionaries
-
+## Areas for to be included later
+ pandas
+ numPy
+ dictionaries
+ 
