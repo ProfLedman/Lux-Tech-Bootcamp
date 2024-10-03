@@ -1,5 +1,5 @@
 
-# SQL Joins Cheat
+# SQL Joins
 
 ## Overview
 SQL Joins are used to retrieve data from multiple tables based on a related column between them. The most commonly used SQL joins include:
